@@ -1,6 +1,9 @@
-# 🚀 100 Days of Python
+i# 🚀 100 Days of Python
 
 A structured journey of learning Python by building consistency, solving problems, and creating small projects every day.
+Some days are skipped but they are the ex1,2,3 files that have been assigned to project creation
+also from day 65 i staeted using Vim instead of VS code for my coding all the text editing kind of wierd but i like it instead of vs code which automate everything
+
 
 ---
 
@@ -23,7 +26,7 @@ The goal is simple:
 | Day 02 | Variables and Data Types |
 | Day 03 | Conditional Statements |
 | ... | ... |
-| Day 62 | (your latest work) |
+| Day 65 | (your latest work) |
 
 *(Will be updated daily)*
 
@@ -55,7 +58,7 @@ The goal is simple:
 ---
 
 ## 📈 Current Status
-✅ Day 62 Completed  
+✅ Day 65 Completed  
 🔥 Ongoing...
 
 ---

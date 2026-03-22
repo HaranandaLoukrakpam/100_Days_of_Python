@@ -4,6 +4,7 @@ A structured journey of learning Python by building consistency, solving problem
 Some days are skipped but they are the ex1,2,3 files that have been assigned to project creation
 also from day 65 i staeted using Vim instead of VS code for my coding all the text editing kind of wierd but i like it instead of vs code which automate everything
 This really got from rainbow and sunshine to i don't even know what i'm doing 
+really felt like quitting during the 60's day [60-70] i couldn't do much of the excercise and suddenly everything became complex
 
 
 ---
@@ -27,7 +28,7 @@ The goal is simple:
 | Day 02 | Variables and Data Types |
 | Day 03 | Conditional Statements |
 | ... | ... |
-| Day 68 | (latest work) |
+| Day 69 | (latest work) |
 
 *(Will be updated daily)*
 
@@ -59,7 +60,7 @@ The goal is simple:
 ---
 
 ## 📈 Current Status
-✅ Day 68 Completed  
+✅ Day 69 Completed  
 🔥 Ongoing...
 
 ---

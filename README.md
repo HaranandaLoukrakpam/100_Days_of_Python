@@ -28,7 +28,7 @@ The goal is simple:
 | Day 02 | Variables and Data Types |
 | Day 03 | Conditional Statements |
 | ... | ... |
-| Day 69 | (latest work) |
+| Day 70 | (latest work) |
 
 *(Will be updated daily)*
 
@@ -60,7 +60,7 @@ The goal is simple:
 ---
 
 ## 📈 Current Status
-✅ Day 69 Completed  
+✅ Day 70 Completed  
 🔥 Ongoing...
 
 ---

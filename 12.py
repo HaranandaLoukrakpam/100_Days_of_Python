@@ -9,5 +9,5 @@ print(name[-1:len(name)-12])
 print(name[-3:-1])
 
 # quick quiz 
-nm= "Hitler"
+nm= "Hal"
 print(nm[-4:-2])

@@ -1,4 +1,10 @@
 # Inheritance in Python 
+# the types of inheritance in  python 
+# single inheritance
+# multiple imheritance
+# multilevel inheritance
+# heirarchial inheritance
+# hybrid inheritance
 
 class Employee:
     def __init__(self, name, id):

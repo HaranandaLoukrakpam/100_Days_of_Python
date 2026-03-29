@@ -1,15 +1,18 @@
-i# 🚀 100 Days of Python
+##  100 Days of Python
 
 A structured journey of learning Python by building consistency, solving problems, and creating small projects every day.
-Some days are skipped but they are the ex1,2,3 files that have been assigned to project creation
-also from day 65 I staeted using Vim instead of VS code for my coding all the text editing kind of wierd but I like it instead of vs code which automate everything
+
+Some days are skipped but they are the ex1,2,3 files that have been assigned to project creation.
+
+Also from day 65 I started using Vim instead of VS code for my coding all the text editing kind of wierd but I like it instead of vs code which automate everything.
 [Now I've switched to Neovim]
+
 This really got from rainbow and sunshine to I don't even know what I'm doing really felt like quitting during the 60's day [60-70] I couldn't do much of the excercise and suddenly everything became complex
 
 
 ---
 
-## 📌 About
+##  About
 This repository contains my daily progress for the **100 Days of Python challenge**.
 
 The goal is simple:
@@ -20,7 +23,7 @@ The goal is simple:
 
 ---
 
-## 📅 Progress
+## Progress
 
 | Day | Topic / Work |
 |-----|-------------|
@@ -34,7 +37,7 @@ The goal is simple:
 
 ---
 
-## 🛠️ Tech Used
+##  Tech Used
 - Python 3
 - Neovim-currently, Vim-for some time, VsCode-in the beginning
 - Git & GitHub
@@ -42,7 +45,7 @@ The goal is simple:
 
 ---
 
-## 🎯 Goals
+##  Goals
 - Master Python fundamentals
 - Improve problem-solving skills
 - Build real-world mini projects
@@ -50,13 +53,13 @@ The goal is simple:
 
 ---
 
-## 📈 Current Status
-✅ Day 76 Completed  
-🔥 Ongoing...
+##  Current Status
+- Day 76 Completed  
+- Ongoing...
 
 ---
 
-## 🤝 Connect
+##  Connect
 If you're also doing #100DaysOfCode, feel free to connect or fork this repo!
 
 ---

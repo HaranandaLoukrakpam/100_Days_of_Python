@@ -28,7 +28,7 @@ The goal is simple:
 | Day 02 | Variables and Data Types |
 | Day 03 | Conditional Statements |
 | ... | ... |
-| Day 76 | (latest work) |
+| Day 76 | PDF merger using pypdf library |
 
 *(Will be updated daily)*
 

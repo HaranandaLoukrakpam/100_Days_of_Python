@@ -2,9 +2,9 @@ i# 🚀 100 Days of Python
 
 A structured journey of learning Python by building consistency, solving problems, and creating small projects every day.
 Some days are skipped but they are the ex1,2,3 files that have been assigned to project creation
-also from day 65 i staeted using Vim instead of VS code for my coding all the text editing kind of wierd but i like it instead of vs code which automate everything
-This really got from rainbow and sunshine to i don't even know what i'm doing 
-really felt like quitting during the 60's day [60-70] i couldn't do much of the excercise and suddenly everything became complex
+also from day 65 I staeted using Vim instead of VS code for my coding all the text editing kind of wierd but I like it instead of vs code which automate everything
+[Now I've switched to Neovim]
+This really got from rainbow and sunshine to I don't even know what I'm doing really felt like quitting during the 60's day [60-70] I couldn't do much of the excercise and suddenly everything became complex
 
 
 ---
@@ -15,7 +15,7 @@ This repository contains my daily progress for the **100 Days of Python challeng
 The goal is simple:
 - Build strong fundamentals
 - Write code every single day
-- Create small projects along the way
+- Create small projects along the way [Projects are the 'ex' files]
 - Stay consistent over intensity
 
 ---
@@ -30,24 +30,15 @@ The goal is simple:
 | ... | ... |
 | Day 76 | PDF merger using pypdf library |
 
-*(Will be updated daily)*
-
----
-
-## 📁 Folder Structure
-100_Days_of_Python/
-├── Day01/
-├── Day02/
-├── Day03/
-├── ...
-
+*(Will be updated daily, if I code that is)*
 
 ---
 
 ## 🛠️ Tech Used
 - Python 3
-- VS Code
+- Neovim-currently, Vim-for some time, VsCode-in the beginning
 - Git & GitHub
+- Sample files
 
 ---
 

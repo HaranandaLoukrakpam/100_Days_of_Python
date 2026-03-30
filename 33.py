@@ -19,9 +19,9 @@
 
 # print(dict("Harananda")) #used when we want the code to throw error if the key or value isn't present in the dictionary
 
-blah={31:"Dick-Head",
-      32:"Bitch",
-      33:"Whore"}
+blah={31:"alex",
+      32:"maya",
+      33:"jiten"}
 print(blah)
 print(blah.keys())
 

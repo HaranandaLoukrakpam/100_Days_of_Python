@@ -1,7 +1,7 @@
 # strings 
 # some more stuff about string 
 name ="Harananda Loukrakpam"
-friend= "lwra"
+friend= "alex"
 another_friend= 'Batman'
 print(name, friend, another_friend)
 print ("Hello my name is "+ name, "and this here is my good friend "+another_friend)

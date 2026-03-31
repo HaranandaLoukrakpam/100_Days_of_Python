@@ -1,12 +1,12 @@
 import numpy as np
 
-a = np.array([1,2,3,4,5])
+a = np.array([1,2,3,4,5])                   #how to initialise an array using list using the numpy library
 b = np.array([6,7,8,9,10])
 
 # Example 1: Check version
 
 print("-----------------------------------------------------------")
-print("NumPy version:", np.__version__)
+print("NumPy version:", np.__version__)             #checkss the version of numpy
 print("-----------------------------------------------------------")
 
 # Example 2: Create a tiny array and inspect it
@@ -22,7 +22,7 @@ print("-----------------------------------------------------------")
 
 # Example 4: Reproducible random numbers using seed
 
-np.random.seed(42)
+np.random.seed(42)              #the no 42 doesnt do anything it is just a value we can put any value so that the result doesnt change when we re run the code
 print("Random numbers:", np.random.randint(0, 10, size=5))                              #randint prints random integer, rand p
 print("-----------------------------------------------------------")
 # ---- From Python sequences ----
@@ -38,7 +38,7 @@ print("2D array:\n", a2)
 print("-----------------------------------------------------------")
 
 # Example 3: From tuple with dtype
-a3 = np.array((1.1, 2.2, 3.3), dtype=np.float32)
+a3 = np.array((1.1, 2.2, 3.3), dtype=np.float32)                #can also be float64
 print("From tuple with dtype:", a3, "| dtype:", a3.dtype)
 print("-----------------------------------------------------------")
 
@@ -50,9 +50,9 @@ print("arange:", r1)
 print("-----------------------------------------------------------")
 
 # Example 5: linspace(start, stop, num) inclusive endpoints
-r2 = np.linspace(1,10,10)
+r2 = np.linspace(1,10,100)               #the set is divided equally to the specified linspace
 print("linspace:", r2)
-print(len(r2))
+print(len(r2))              #prints the length
 print("-----------------------------------------------------------")
 
 # Example 6: logspace(start_exp, stop_exp, num) -> 10**exponent
@@ -61,9 +61,9 @@ print("logspace:", r3)
 print("-----------------------------------------------------------")
 
 # ---- special arrays ----
-z = np.zeros((3,4))
-o = np.ones((2, 3))
-f = np.full((2, 3), fill_value="bhi")
+z = np.zeros((5,5,5))             #this will create a 2 dimensional array of 5x5 shape but we can also create 3 dimension like np.zeroes((2,3,4))
+o = np.ones((3, 3))
+f = np.full((3, 3), fill_value="Harananda")             #can give a fill value to fill the whole array
 print("zeros:\n", z)
 print("-----------------------------------------------------------")
 print("ones:\n", o)

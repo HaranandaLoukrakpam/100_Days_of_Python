@@ -31,8 +31,7 @@ The goal is simple:
 | Day 02 | Variables and Data Types |
 | Day 03 | Conditional Statements |
 | ... | ... |
-| Day 77 | Operator overloading in python |
-
+| Day 78 | Single Inheritance in python |
 *(Will be updated daily, if I code that is)*
 
 ---
@@ -54,7 +53,7 @@ The goal is simple:
 ---
 
 ##  Current Status
-- Day 77 Completed  
+- Day 78 Completed  
 - Ongoing...
 
 ---

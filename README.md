@@ -31,7 +31,7 @@ The goal is simple:
 | Day 02 | Variables and Data Types |
 | Day 03 | Conditional Statements |
 | ... | ... |
-| Day 79 | Multiple inheritance in python |
+| Day 80 | Multi-level inheritance in python |
 *(Will be updated daily, if I code that is)*
 
 ---
@@ -53,7 +53,7 @@ The goal is simple:
 ---
 
 ##  Current Status
-- Day 79 Completed  
+- Day 80 Completed  
 - Ongoing...
 
 ---

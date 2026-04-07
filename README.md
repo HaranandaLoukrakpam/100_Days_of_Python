@@ -31,7 +31,7 @@ The goal is simple:
 | Day 02 | Variables and Data Types |
 | Day 03 | Conditional Statements |
 | ... | ... |
-| Day 84 | Time module in python |
+| Day 85 | walrus operator in python |
 *(Will be updated daily, if I code that is)*
 
 ---
@@ -53,7 +53,7 @@ The goal is simple:
 ---
 
 ##  Current Status
-- Day 84 Completed  
+- Day 86 Completed  
 - Ongoing...
 
 ---

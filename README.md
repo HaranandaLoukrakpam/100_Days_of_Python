@@ -9,6 +9,8 @@ Also from day 65 I started using Vim instead of VS code for my coding all the te
 
 This really got from rainbow and sunshine to I don't even know what I'm doing really felt like quitting during the 60's day [60-70] I couldn't do much of the excercise and suddenly everything became complex
 
+Somewhere from the 80's its all about random modules so I copy pasted some of the codes for the module codes and operators as I can always read the documentation instead of remembering all the methods
+
 
 ---
 
@@ -31,7 +33,7 @@ The goal is simple:
 | Day 02 | Variables and Data Types |
 | Day 03 | Conditional Statements |
 | ... | ... |
-| Day 85 | walrus operator in python |
+| Day 87 | shutil module in python |
 *(Will be updated daily, if I code that is)*
 
 ---
@@ -53,7 +55,7 @@ The goal is simple:
 ---
 
 ##  Current Status
-- Day 86 Completed  
+- Day 87 Completed  
 - Ongoing...
 
 ---

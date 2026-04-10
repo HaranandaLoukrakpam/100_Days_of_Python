@@ -11,6 +11,8 @@ This really got from rainbow and sunshine to I don't even know what I'm doing re
 
 Somewhere from the 80's its all about random modules so I copy pasted some of the codes for the module codes and operators as I can always read the documentation instead of remembering all the methods
 
+10 and 11 of April I couldn't do much as I'm travelling 
+
 
 ---
 

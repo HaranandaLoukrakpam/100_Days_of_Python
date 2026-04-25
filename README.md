@@ -13,6 +13,8 @@ Somewhere from the 80's its all about random modules so I copy pasted some of th
 
 10 and 11 of April I couldn't do much as I'm travelling 
 
+Two weeks out due to Travel in Delhi
+
 
 ---
 
@@ -35,7 +37,7 @@ The goal is simple:
 | Day 02 | Variables and Data Types |
 | Day 03 | Conditional Statements |
 | ... | ... |
-| Day 89 | Request module in python |
+| Day 91 | Generaors in python |
 *(Will be updated daily, if I code that is)*
 
 ---
@@ -57,7 +59,7 @@ The goal is simple:
 ---
 
 ##  Current Status
-- Day 89 Completed  
+- Day 91 Completed  
 - Ongoing...
 
 ---

@@ -37,7 +37,7 @@ The goal is simple:
 | Day 02 | Variables and Data Types |
 | Day 03 | Conditional Statements |
 | ... | ... |
-| Day 91 | Generaors in python |
+| Day 92 | Function caching  in python |
 *(Will be updated daily, if I code that is)*
 
 ---
@@ -59,7 +59,7 @@ The goal is simple:
 ---
 
 ##  Current Status
-- Day 91 Completed  
+- Day 92 Completed  
 - Ongoing...
 
 ---
